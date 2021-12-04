@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{research.html}
+== Research
+
+== Publication
+. Jingru Zhang and Wei Lin (2019). Scalable estimation and regularization for the logistic normal multinomial model. Biometrics (just accepted). [biomlnm.pdf \[pdf\]] [biomlnm_supp.pdf \[supplement\]] 
+
+== Preprints
+. Jingru Zhang and Hao Chen (2019). Graph-based two-sample tests for data with repeated observations. Submitted. [gtests.pdf \[pdf\]] 
+. Jingru Zhang and Wei Lin (2019+). Principal subspace analysis for high-dimensional compositional data. To be submitted (available upon request).
+. Jingru Zhang, Hao Chen and Xiao-Hua Zhou (2019+). New non-parametric tests
+for multivariate paired data. To be submitted (available upon request).
+. Jingru Zhang, Xiao-Hua Zhou, Xinting Huang and Wenhao Mao (2019+). Doctor
+profile analysis with social regularization. To be submitted (available upon
+request).
+
+== Ongoing works
+. Doctor-ranking problem.
+. Network regularized problem.
+
+== Software (R package)
+- [software/gTests_0.2.7z gTests]: Graph-Based Two-Sample Tests.
+
