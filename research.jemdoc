@@ -2,13 +2,16 @@
 == Research
 
 == Publications --- papers published\/accepted
-. *[https://arxiv.org/pdf/2106.12768.pdf Two-sample tests for multivariate repeated measurements of histogram objects with applications to wearable device data.]* \n
+. *[https://www.sciencedirect.com/science/article/abs/pii/S0167947322002146 Clustering multivariate count data via Dirichlet-multinomial network
+fusion.]* \n
+  Xin Zhao, *Jingru Zhang*, and Wei Lin. \n
+  Computational Statistics & Data Analysis, 2023. \n
+. *[https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-4/Two-sample-tests-for-multivariate-repeated-measurements-of-histogram-objects/10.1214/21-AOAS1596.short Two-sample tests for multivariate repeated measurements of histogram objects with applications to wearable device data.]* \n
   *Jingru Zhang*, Kathleen R. Merikangas, Hongzhe Li, and Haochang Shou. \n
-  arXiv preprint, arXiv:2106.12768, 2021. \n
-  Annals of Applied Statistics (to appear). \n
-. *[http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2019-0116_na.pdf Graph-based two-sample tests for data with repeated observations.]* \n
+  Annals of Applied Statistics, 2022. \n
+. *[https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n119.pdf Graph-based two-sample tests for data with repeated observations.]* \n
   *Jingru Zhang* and Hao Chen. \n
-  Statistica Sinica, 2020. \n
+  Statistica Sinica, 2022. \n
 . *[https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13071 Scalable estimation and regularization for the logistic normal multinomial model.]* \n
   *Jingru Zhang* and Wei Lin. \n 
   Biometrics, 2019. \n
@@ -17,35 +20,36 @@
 == Manuscripts submitted/in preparation
 . *[https://arxiv.org/pdf/2007.01497.pdf A new nonparametric test for multivariate paired data and pair matching.]* \n
   *Jingru Zhang*, Hao Chen, and Xiao-Hua Zhou. \n
-  arXiv preprint arXiv:2007.01497, submitted, 2020.\n
-. Clustering multivariate count data via Dirichlet-multinomial network fusion. \n
-  Xin Zhao, *Jingru Zhang*, and Wei Lin \n
-  Submitted, 2021. \n
+  arXiv preprint arXiv:2007.01497, 2020.\n
 . *[https://arxiv.org/pdf/2109.04657.pdf Principal subspace analysis for high-dimensional compositional data.]* \n
   *Jingru Zhang* and Wei Lin. \n
   arXiv preprint arXiv:2109.04657, 2021. (This paper won the 2019 Zhong Jiaqing outstanding paper award.) \n
 . Causal treatment effect estimation for outcomes measured with uncertainty. \n
-  *Jingru Zhang*, Mathias Basner, Christopher W. Jones, David F. Dinges, Haochang Shou, and Hongzhe Li. \n
-  To be submitted (available upon request), 2021. \n
-. Empirical likelihood tests for variance components in linear mixed-effects models. \n
+  *Jingru Zhang*, Mathias Basner, Christopher W. Jones, David F. Dinges, Haochang Shou, and Hongzhe Li, 2023. \n
+. *[https://arxiv.org/abs/2208.13936 Empirical likelihood tests for variance components in linear mixed-effects models.]* \n
   *Jingru Zhang*, Wei Guo, Joanne S. Carpenter, Nicholas G. Martin, Ian B. Hickie, Andrew Leroux, Kathleen R. Merikangas, Haochang Shou, and Hongzhe Li. \n
-  To be submitted (available upon request), 2021. \n
+  arXiv preprint arXiv:2208.13936, 2023. \n
 . Non-transient heritability inference based on repeated measures wearable device data. \n
-  *Jingru Zhang*, Wei Guo, Joanne S. Carpenter, Nicholas G. Martin, Ian B. Hickie, Andrew Leroux, Kathleen R. Merikangas, Haochang Shou, and Hongzhe Li. \n
-  To be submitted (available upon request), 2021. \n
+  *Jingru Zhang*, Wei Guo, Joanne S. Carpenter, Nicholas G. Martin, Ian B. Hickie, Andrew Leroux, Kathleen R. Merikangas, Haochang Shou, and Hongzhe Li, 2023. \n
+. *[https://arxiv.org/abs/2208.13939 Mediation analysis with densities as mediators with an application to iCOMPARE trial.]* \n
+  *Jingru Zhang*, Mathias Basner, Christopher W.Jones, David F.Dinges, Haochang Shou, and Hongzhe Li \n
+arXiv preprint arXiv:2208.13939, 2023.
+. Integration of longitudinal wearable device data from multiple sources. \n
+  *Jingru Zhang*, Hongzhe Li, and Haochang Shou, 2023. 
 
 #. Doctor profile analysis with social regularization. 
 #  Jingru Zhang, Xiao-Hua Zhou, Xinting Huang and Wenhao Mao (2019+). 
 #  To be submitted (available upon request)
 
 == Ongoing works
-. Mediation analysis for wearable device data.
+. Integration of wearable device data.
 . Nonparametric tests for object data. 
 . Doctor-ranking problem.
 
 == Software (R package)
 - [software/gTests_0.2.7z gTests]: Graph-based two-sample tests.
 - [software/gTestsPair_0.1.tar.gz gTestsPair]: Nonparametric tests for multivariate paired data and pair matching.
+- [https://github.com/jingru-zhang/ELmethod ELmethodVar]: Empirical likelihood inference of variance components in linear mixed-effects models.
 
 
 
